@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.main {
+    text-align: center;
+    margin-top: 8px;
+}
+.address_skills {
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+}
+.address_skills span {
+    color: rgb(15, 124, 167);
+}
+.line {
+    width: 90%;
+    margin: auto;
+}
+.abt {
+     width: 90%;
+     margin: auto;
+}
+.heading {
+    margin-left: 60px;
+    color: rgb(15, 124, 167);
+}
+.content {
+    margin-left: 60px;
+    margin-bottom: 6px;
+}
+.content1 {
+    margin-left: 80px;
+}
+.details {
+    margin-left: 60px;
+}
+.details h4 {
+    color: rgb(15, 124, 167);
+}
+.education_details {
+    margin-bottom: 10px;
+}
